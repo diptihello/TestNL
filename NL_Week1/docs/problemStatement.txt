@@ -1,0 +1,162 @@
+﻿Watch this before → https://www.youtube.com/playlist?list=PLfq5z_tJn33A 
+Problem Statement
+AI-Powered Restaurant Recommendation System (Zomato Use Case)
+You are tasked with building an AI-powered restaurant recommendation service inspired by Zomato. The system should intelligently suggest restaurants based on user preferences by combining structured data with a Large Language Model (LLM).
+Objective
+Design and implement an application that:
+* Takes user preferences (such as location, budget, cuisine, and ratings)
+* Uses a real-world dataset of restaurants
+* Leverages an LLM to generate personalized, human-like recommendations
+* Displays clear and useful results to the user
+System Workflow
+1. Data Ingestion
+   * Load and preprocess the Zomato dataset from Hugging Face (https://huggingface.co/datasets/ManikaSaini/zomato-restaurant-recommendation )
+   * Extract relevant fields such as restaurant name, location, cuisine, cost, rating, etc.
+2. User Input
+   * Collect user preferences:
+      * Location (e.g., Delhi, Bangalore)
+      * Budget (low, medium, high)
+      * Cuisine (e.g., Italian, Chinese)
+      * Minimum rating
+      * Any additional preferences (e.g., family-friendly, quick service)
+3. Integration Layer
+   * Filter and prepare relevant restaurant data based on user input
+   * Pass structured results into an LLM prompt
+   * Design a prompt that helps the LLM reason and rank options
+4. Recommendation Engine
+   * Use the LLM to:
+      * Rank restaurants
+      * Provide explanations (why each recommendation fits)
+      * Optionally summarize choices
+5. Output Display
+   * Present top recommendations in a user-friendly format:
+      * Restaurant Name
+      * Cuisine
+      * Rating
+      * Estimated Cost
+      * AI-generated explanation
+
+
+
+
+AI Tools
+Any one of them 
+* https://cursor.com/download (Pro) 
+   * https://www.youtube.com/playlist?list=PLfq5z_tJn33A 
+* https://antigravity.google/product/antigravity-ide (JIO sim, 349 activate google pro + antigravity) (18 months) 
+* VS + Claude https://www.youtube.com/playlist?list=PL0yP9t93Zw_AyNcDz98-Tbi418nlGeoDz https://www.youtube.com/watch?v=r9asFt5iU9E&list=PL0yP9t93Zw_AyNcDz98-Tbi418nlGeoDz&index=2&t=2074s 
+https://www.youtube.com/playlist?list=PL0yP9t93Zw_AyNcDz98-Tbi418nlGeoDz 
+* VS + Codex 
+* VS + Copilot 
+
+
+STEPS
+Understand Context Engineering (Advance Vibe Coding) → https://www.youtube.com/watch?v=weVIOp2s87w 
+
+
+Master-Project-Building-with-AI-Tools.pdf 
+
+
+More projects → https://www.youtube.com/playlist?list=PL0yP9t93Zw_DIMaYcCWsT3I53Y7HYo1cE 
+
+
+Context Setup 
+* Create docs folder 
+   * problemStatement.txt → basic problem statement 
+   * problemStatement.md → store context of the project you are building 
+   * architecture.md → detailed architecture of the project 
+   * implementation-plan.md → phase-wise implementation plan 
+   * edge-case.md → corner scenario 
+   * eval.md → evaluation scenarios for the project (evaluation each phase of our project) 
+
+
+Implementation 
+* Implement phase X using the implementation-plan 
+
+
+
+
+
+
+
+
+
+
+Diagram Flow
+  
+
+Prompt 
+1. Generate a problemStatement.md which contains context of this project using @docs/problemStatement.txt  
+2. Generate a detailed architecture.md for building this project using @problemStatement.md 
+3. Generate phase-wise implementation-plan.md for this project using @architecture.md and @problemStatement.md 
+4. Generate a edge-case.md which stores all the corner scenario and edgecases for this project using @implementation-plan.md @architecture.md
+5. Generate an eval.md for this project using @implementation-plan.md   
+6. Implement phase0 as per the @implementation-plan.md 
+7. Implement phase1 as per the @implementation-plan.md 
+8. Implement phase2 as per the @implementation-plan.md  
+9. Implement phase3 as per the @docs/implementation-plan.md  
+
+
+Integrating with LLM 
+* Groq → https://groq.com/ (Create API key) 
+* Google → https://aistudio.google.com/ (Create API key) 
+
+
+API key will be added in .env file 
+This .env you can ask cursor or antigravity to generate (copy the content from .env.example file)
+
+
+10. We can update the phase4 of @implementation-plan.md with Groq as LLM 
+11. Implement phase4 as per the @implementation-plan.md 
+12. I have added API key of groq, test whether connection to groq is working or not 
+make only one call 
+13. Implement phase5 as per the @implementation-plan.md  
+14. Run the project (both backend and frontend)
+
+
+MANUAL VERIFICATION 
+
+
+15. In location we have a dropdown of locations that are present 
+Cuisine we can make optional and not a compulsory field 
+16. Stop the project 
+17. Model - openai/gpt-oss-120b        
+Request per minute - 30        
+request per day - 1K        
+Tokens per minute - 8K        
+Tokens per day - 200K
+
+
+Currently these are the limits so can we make sure that we use bare minimum tokens in each call with reference to these limits 
+
+
+Optimizing the FRONTEND 
+
+
+
+
+
+
+
+
+
+
+Mistakes 
+High quality Model 
+        Claude Opus 5, Sonnet 5, GPT Astra, GPT 5.6, Fable etc 
+
+
+Medium quality Model 
+        Gemini Pro 3.x (High), Grok 4.7, GPT 5.5 etc
+
+
+Low quality Model 
+        Gemini Flash (CHAT), Locally hosted LLM 
+
+
+Cursor Pro 
+* Auto 
+Shortcuts
+Ctrl + Shift + V → Preview markdown file 
+Cmd + Shift + V →  Preview markdown file 
+Extensions → Parquet, SQL etc

@@ -1,0 +1,51 @@
+name,address,online_order,book_table,rate,votes,location,rest_type,dish_liked,cuisines,approx_cost(for two people),listed_in(type)
+Jalsa,"942, 21st Main Road, Banashankari",Yes,Yes,4.1/5,775,Banashankari,Casual Dining,"Pasta, Lunch Buffet, Masala Papad, Paneer Lajawab, Tomato Shorba, Dum Biryani","North Indian, Mughlai, Chinese",800,Buffet
+Jalsa,"942, 21st Main Road, Banashankari",Yes,Yes,4.1/5,500,Banashankari,Casual Dining,"Pasta, Lunch Buffet","North Indian, Mughlai, Chinese",800,Delivery
+Jalsa ,"942, 21st Main Road, Banashankari",Yes,Yes,4.1/5,200, Banashankari ,Casual Dining,Pasta,"North Indian, Mughlai, Chinese",800,Dine-out
+jalsa,"942, 21ST MAIN ROAD, BANASHANKARI ",Yes,Yes,4.1/5,100,Banashankari,Casual Dining,Pasta,"North Indian, Mughlai, Chinese",800,Cafes
+Tie Cafe,"12, Church Street, MG Road",Yes,No,3.9/5,300,MG Road,Cafe,Coffee,"Cafe, Desserts",400,Delivery
+Tie Cafe,"12, Church Street, MG Road",Yes,No,3.9/5,300,MG Road,Cafe,Coffee,"Cafe, Desserts",450,Dine-out
+Spice Junction,"123, 100 Feet Road, Indiranagar",Yes,No,3.8/5,450, Indiranagar ,Quick Bites,Biryani,"South Indian, Andhra",500,Delivery
+Spice Junction,"123, 100 Feet Road, Indiranagar",Yes,No,3.8/5,460,Indiranagar,Quick Bites,Biryani,"South Indian, Andhra",550,Dine-out
+Royal Treat,"456, Brigade Road, Koramangala",No,Yes,4.5/5,1200,Koramangala,Fine Dining,"Dal Makhani, Butter Naan",North Indian,"1,200",Dine-out
+Cafe Corner,"789, 7th Cross, BTM Layout",Yes,No,NEW,,BTM Layout,Cafe,Coffee,Cafe,300,Delivery
+Chai Point,"808, Outer Ring Road, Bellandur",Yes,No,-,150,Bellandur,Beverage Shop,Chai,Beverages,150,Delivery
+Plain Eats,"14, 2nd Main, BTM Layout",Yes,No,3.4/5,40,BTM Layout,Quick Bites,,,250,Delivery
+Btm Bites,"77, 16th Main, Btm Layout",Yes,No,3.6/5,90,Btm Layout,Quick Bites,Rolls,"Fast Food, rolls",200,Delivery
+,No Address Given,No,No,3.0/5,50,BTM Layout,Quick Bites,,Indian,300,Delivery
+Nameless Cafe,No Address Given,No,No,3.0/5,50,,Quick Bites,,Indian,300,Delivery
+The Grill House,"101, ITPL Main Road, Whitefield",Yes,Yes,4.0/5,200,Whitefield,Casual Dining,"BBQ Chicken, Grilled Fish","BBQ, north indian",700,Dine-out
+BBQ Nation,"100, Residency Road, Koramangala",Yes,Yes,4.2/5,950,Koramangala,Casual Dining,"BBQ Chicken, Kebabs","BBQ, North Indian, European",1600,Buffet
+Pasta Palace,"202, 24th Main, JP Nagar",Yes,No,4.1 /5,350,JP Nagar,Casual Dining,"Pasta, Pizza",Italian,800.0,Delivery
+Sushi Bay,"303, Tech Park, Marathahalli",No,Yes,4.8/5,50,Marathahalli,Fine Dining,Sushi,"Japanese, Sushi",2000,Dine-out
+Dosa King,"404, 9th Block, Jayanagar",Yes,No,4.2/5,900,Jayanagar,Quick Bites,"Masala Dosa, Idli",South Indian,200,Delivery
+Burger Barn,"505, 27th Main, HSR",Yes,No,3.9/5,600,HSR,Quick Bites,Burger,"American, Fast Food",350,Delivery
+Tandoori Nights,"606, Bull Temple Road, Basavanagudi",Yes,Yes,4.3/5,800,Basavanagudi,Casual Dining,"Tandoori Chicken, Kebabs",North Indian,900,Dine-out
+Wok Express,"707, Hosur Road, Electronic City",Yes,No,3.7/5,300,Electronic City,Quick Bites,Noodles,"Chinese, Thai",400,Delivery
+The Biryani House,"909, Dr Rajkumar Road, Rajajinagar",Yes,No,4.4/5,1100,Rajajinagar,Casual Dining,Biryani,"Mughlai, North Indian, Biryani",650,Delivery
+Sweet Tooth,"110, Sampige Road, Malleshwaram",Yes,No,4.0/5,250,Malleshwaram,Bakery,"Cake, Pastry","Bakery, Desserts",350,Delivery
+Pizza Hub,"211, Bannerghatta Main Road, Bannerghatta Road",Yes,No,3.6/5,400,Bannerghatta Road,Quick Bites,Pizza,"Pizza, Italian",500,Delivery
+Seafood Shack,"312, Coles Road, Frazer Town",No,Yes,4.6/5,700,Frazer Town,Casual Dining,"Fish Fry, Prawns","Seafood, Kerala",1100,Dine-out
+Veggie Delight,"413, Sankey Road, Sadashiv Nagar",Yes,No,4.1/5,550,Sadashiv Nagar,Casual Dining,"Paneer Tikka, Dal",North Indian,500,Delivery
+South Spice,"514, Bellary Road, Yelahanka",Yes,No,3.9/5,200,Yelahanka,Quick Bites,"Dosa, Uttapam",South Indian,300,Delivery
+The Coffee Bean,"615, Lavelle Road, Lavelle Road",Yes,No,4.2/5,350,Lavelle Road,Cafe,Cappuccino,"Cafe, Beverages",400,Cafes
+Dragon Wok,"716, Sarjapur Main Road, Sarjapur Road",Yes,No,3.5/5,150,Sarjapur Road,Quick Bites,"Fried Rice, Manchurian","Chinese, Momos",450,Delivery
+Momo Magic,"817, Hennur Main Road, Kammanahalli",Yes,No,4.0/5,100,Kammanahalli,Takeaway,Momos,"Tibetan, Momos",250,Delivery
+Kebab Factory,"918, Tumkur Road, Yeshwantpur",No,Yes,4.4/5,650,Yeshwantpur,Casual Dining,"Seekh Kebab, Galouti","North Indian, Mughlai",850,Dine-out
+Ice Cream World,"119, Thanisandra Road, Nagawara",Yes,No,4.1/5,200,Nagawara,Dessert Parlor,Ice Cream,"Ice Cream, Desserts",200,Desserts
+The Steakhouse,"220, MG Road, MG Road",No,Yes,4.7/5,400,MG Road,Fine Dining,"Steak, Wine",Steak,1500,Dine-out
+Curry Leaves,"321, Chord Road, Vijay Nagar",Yes,No,3.8/5,350,Vijay Nagar,Casual Dining,"Chicken Curry, Appam","South Indian, North Indian",550,Delivery
+Street Bites,"422, Commercial Street, Commercial Street",Yes,No,3.2/5,180,Commercial Street,Food Court,"Pani Puri, Chaat",Street Food,150,Delivery
+Garden Cafe,"523, Cunningham Road, Cunningham Road",Yes,Yes,4.3/5,500,Cunningham Road,Cafe,"Sandwich, Pasta, Coffee","Continental, Cafe",600,Dine-out
+Cafe Mocha Cafe Ole,"624, St Marks Road, St. Marks Road",Yes,No,3.6/5,250,St. Marks Road,Cafe,Hot Chocolate,"Cafe, Tea",350,Cafes
+Café Udupi Ruchi,"725, Shanti Nagar Main Road, Shanti Nagar",Yes,No,4.0/5,300,Shanti Nagar,Quick Bites,"Roti, Dal Fry",South Indian,,Delivery
+Milkshake Mania,"826, 80 Feet Road, Koramangala",Yes,No,3.4/5,100,Koramangala,Beverage Shop,Milkshake,"Beverages, Desserts",250,Delivery
+Empire Restaurant,"400, Church Street, Koramangala",Yes,Yes,4.0/5,"2,000",Koramangala,Casual Dining,"Biryani, Kebabs, Shawarma","North Indian, Chinese, Kebab",600,Dine-out
+A2B,"500, 11th Main, Jayanagar",Yes,No,4.1/5,500,Jayanagar,Quick Bites,"Dosa, Idli, Filter Coffee","South Indian, North Indian, Chinese",250,Delivery
+MTR,"600, Lalbagh Road, Basavanagudi",No,No,4.5/5,1500,Basavanagudi,Quick Bites,"Rava Idli, Masala Dosa",South Indian,300,Dine-out
+Vidyarthi Bhavan,"32, Gandhi Bazaar Main Road, Basavanagudi",No,No,4.6/5,3000,Basavanagudi,Quick Bites,Masala Dosa,South Indian,200,Dine-out
+Meghana Foods,"700, Residency Road, Residency Road",Yes,No,4.4/5,1800,Residency Road,Casual Dining,"Biryani, Andhra Meals","Biryani, Andhra",500,Delivery
+Truffles,"800, St Marks Road, St. Marks Road",Yes,No,4.3/5,2200,St. Marks Road,Casual Dining,"Burger, Pasta, Steak","American, Continental, Steak",700,Dine-out
+The Permit Room,"1000, Rest House Road, Brigade Road",No,Yes,4.2/5,800,Brigade Road,Bar,"Cocktails, Chef's Special Tapas","Bar Food, South Indian",1200,Drinks & nightlife
+Toit,"1100, 100 Feet Road, Indiranagar",No,Yes,4.6/5,3500,Indiranagar,Microbrewery,"Craft Beer, Pizza","Italian, American, Pizza",1500,Pubs and bars
+Byg Brewski,"1200, Hennur Main Road, Hennur",No,Yes,4.9/5,2000,Hennur,Microbrewery,"Craft Beer, Wings","Continental, North Indian, Italian",1600,Pubs and bars

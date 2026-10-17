@@ -1,0 +1,44 @@
+{
+  "rows_before": 51717,
+  "rows_after": 12485,
+  "dropped_rows": 39232,
+  "dropped": {
+    "empty_name": 0,
+    "empty_location": 21,
+    "duplicates": 39211
+  },
+  "rating_numeric_looking": 41665,
+  "rating_count": 41665,
+  "rating_parse_rate": 1.0,
+  "rated_restaurants": 9478,
+  "cost_present": 51371,
+  "cost_count": 51371,
+  "cost_parse_rate": 1.0,
+  "cost_percentiles": {
+    "p10": 200,
+    "p33": 300,
+    "p50": 400,
+    "p66": 500,
+    "p90": 850
+  },
+  "distinct_locations": 93,
+  "generated_at": "2026-10-15T02:44:56+00:00",
+  "dataset_repo": "ManikaSaini/zomato-restaurant-recommendation",
+  "dataset_revision": "5738e9eda2fad49ad51c6e0ed26e761d9b947133",
+  "dataset_filename": "zomato.csv",
+  "schema_columns": [
+    "id",
+    "name",
+    "address",
+    "location",
+    "location_key",
+    "cuisines",
+    "cost_for_two",
+    "rating",
+    "votes",
+    "rest_type",
+    "dish_liked",
+    "online_order",
+    "book_table"
+  ]
+}

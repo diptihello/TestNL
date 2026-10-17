@@ -1,0 +1,17 @@
+# Environment and secrets
+.venv/
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+
+# Data and runtime state
+data/raw/
+data/.usage.json
+data/.cache/
+data/*.bad
+data/processed/*.tmp

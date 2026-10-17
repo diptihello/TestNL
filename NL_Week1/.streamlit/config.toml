@@ -1,0 +1,10 @@
+[server]
+# The app has no authentication. Keep it on localhost.
+address = "localhost"
+
+[client]
+# Never send tracebacks or error details to the browser.
+showErrorDetails = "none"
+
+[browser]
+gatherUsageStats = false

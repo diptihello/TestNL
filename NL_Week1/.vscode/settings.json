@@ -1,0 +1,4 @@
+{
+    "python.terminal.useEnvFile": true,
+    "github.copilot.chat.responsesApi.promptCacheBreakpoint.enabled": false
+}
